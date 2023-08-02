@@ -1,5 +1,10 @@
 # TOOLS
 
+## Undo UNcommited changes - Git (02/08)
+
+- git reset --hard BRANCH
+
+
 ## Push Local Repo - Git Hub (31/07)
 
 1. Create the remote repo
