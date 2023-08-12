@@ -10,7 +10,7 @@
 1. Create the remote repo
 2. For the local repo (the one we're working on), after commit, provide this command:
 
-- git remote add origin <GitHub repo URL>
+- git remote add origin <github_repo_URL>
 
 3. Push the code to github:
 
